@@ -1,0 +1,10 @@
+#here you can modify graph simulation option
+
+#2 <= numRows <= 50
+numRows = 20
+#2 <= numCols <= 50
+numCols = 20
+#set 2 <= completeness <= 100
+completeness = 20
+#set 2 <= numNode <= 40%numRows*numCols
+numNode = 20

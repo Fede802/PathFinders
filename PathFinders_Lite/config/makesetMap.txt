@@ -1,0 +1,10 @@
+#here you can modify map simulation option
+
+#5 <= numRows <= 50
+numRows = 500
+#5 <= numCols <= 50
+numCols = 500
+#2 <= spawn <= 50
+spawn = 40
+#2 <= expand <= 50
+expand = 40

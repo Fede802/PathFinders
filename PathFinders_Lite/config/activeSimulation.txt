@@ -1,0 +1,26 @@
+#de-comment the simulation you want to run (only one at a time)
+#if is a makeset type you can modify the setup in the file with the corresponding name
+
+#preset1
+#preset2
+#preset3
+#preset4
+#preset5
+#makesetGraph
+#makesetLab
+makesetMap
+
+#insert the number of simulation to run each time (>0)
+numSimulation=20
+
+#de-comment the time unit you want to save (only one at a time)
+
+#sec
+milli
+#micro
+#nano
+
+#because could be really slow or can cause overflow issue (in particular with preset)
+#is possible to exclude DFS from simulation (true/false)
+
+includeDFS = false

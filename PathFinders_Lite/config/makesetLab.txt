@@ -1,0 +1,7 @@
+#here you can modify lab simulation option
+
+#2 <= numRows <= 50
+numRows = 450
+#2 <= numCols <= 50
+numCols = 450
+
